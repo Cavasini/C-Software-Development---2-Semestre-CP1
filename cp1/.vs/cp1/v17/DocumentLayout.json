@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\cp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|d:\\c#\\cp1\\cp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|solutionrelative:cp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|d:\\c#\\cp1\\cp1\\utils\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|solutionrelative:cp1\\utils\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|d:\\c#\\cp1\\cp1\\utils\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|solutionrelative:cp1\\utils\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|d:\\c#\\cp1\\cp1\\model\\fileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD7CE3-8842-42EB-AD1B-0097C936400C}|cp1\\cp1.csproj|solutionrelative:cp1\\model\\fileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileResult.cs",
+              "DocumentMoniker": "D:\\c#\\cp1\\cp1\\Model\\FileResult.cs",
+              "RelativeDocumentMoniker": "cp1\\Model\\FileResult.cs",
+              "ToolTip": "D:\\c#\\cp1\\cp1\\Model\\FileResult.cs",
+              "RelativeToolTip": "cp1\\Model\\FileResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:56:54.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "D:\\c#\\cp1\\cp1\\Utils\\ReportManager.cs",
+              "RelativeDocumentMoniker": "cp1\\Utils\\ReportManager.cs",
+              "ToolTip": "D:\\c#\\cp1\\cp1\\Utils\\ReportManager.cs",
+              "RelativeToolTip": "cp1\\Utils\\ReportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:55:03.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "D:\\c#\\cp1\\cp1\\Utils\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "cp1\\Utils\\FileProcessor.cs",
+              "ToolTip": "D:\\c#\\cp1\\cp1\\Utils\\FileProcessor.cs",
+              "RelativeToolTip": "cp1\\Utils\\FileProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:54:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\cp1\\cp1\\Program.cs",
+              "RelativeDocumentMoniker": "cp1\\Program.cs",
+              "ToolTip": "D:\\c#\\cp1\\cp1\\Program.cs",
+              "RelativeToolTip": "cp1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:38:31.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
